@@ -6,4 +6,4 @@ Here is a causal inference project via Econometrics. A Portuguese banking instit
 To aid with the above effort, we will run an analysis to detect the effect (positive/negative) of making over 2 phone calls compared to making just one or two phone calls. 
 
 
-*Causal Question: Does contacting a prospective customer more than twice via calls have an effect on the client subscribing to term deposit compared to subscribing once or twice?*
+Causal Question: Does contacting a prospective customer more than twice via calls have an effect on the client subscribing to term deposit compared to subscribing once or twice?
